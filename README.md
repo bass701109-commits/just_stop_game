@@ -1,8 +1,12 @@
 # JUST STOP CHALLENGE ⏱️
 
+<p align="center">
+  <img src="Screenshot_20260208-235037 (1).png" width="400" alt="Game Screen">
+  <br>
+  <b>↑ 目標タイムで止めるスリリングな体験！</b>
+</p>
+
 ターゲットタイムでピタッと止める、シンプルかつ中毒性のあるストップウォッチゲーム。
-
-
 
 ## 🚀 ライブデモ
 [👉 ここをクリックしてゲームを遊ぶ](https://bbbb199602111220109.github.io/just_stop_game/)
